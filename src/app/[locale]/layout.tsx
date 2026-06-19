@@ -31,7 +31,7 @@ export const metadata: Metadata = {
     template: "%s | Saxen Frisør",
   },
   description:
-    "Saxens frisørsalon i Hjørring. Book online eller ring på 98 92 00 99. Fuldt prisoverslag på alle ydelser.",
+    "Saxens frisørsalon i Hjørring. Book online eller ring på +45 98 92 00 99. Fuldt prisoverslag på alle ydelser.",
   metadataBase: new URL(SITE_URL),
   openGraph: {
     type: "website",

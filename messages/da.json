@@ -8,14 +8,14 @@
       "kontakt": "Kontakt"
     },
     "bookCta": "Book tid",
-    "phone": "98 92 00 99",
+    "phone": "+45 98 92 00 99",
     "openMenu": "Åbn menu",
     "closeMenu": "Luk menu"
   },
   "footer": {
     "salonName": "Saxen Frisør",
     "address": "Jernbanegade 1, 9800 Hjørring",
-    "phone": "98 92 00 99",
+    "phone": "+45 98 92 00 99",
     "email": "susanne@karlborg.dk",
     "hours": {
       "weekdays": "Man–Fre 09:00–17:30",
@@ -51,7 +51,7 @@
   "home": {
     "meta": {
       "title": "Frisør i Hjørring | Saxen Frisør",
-      "description": "Saxen Frisør i Hjørring — fulde priser på alle ydelser, ingen overraskelser. Book online eller ring på 98 92 00 99. 6 erfarne frisører i hjertet af Hjørring."
+      "description": "Saxen Frisør i Hjørring — fulde priser på alle ydelser, ingen overraskelser. Book online eller ring på +45 98 92 00 99. 6 erfarne frisører i hjertet af Hjørring."
     },
     "hero": {
       "headline": "Os der kender dit hår",
@@ -94,12 +94,12 @@
       "saturdayHours": "08:00–13:00",
       "sunday": "Søndag",
       "sundayHours": "Lukket",
-      "phone": "98 92 00 99",
+      "phone": "+45 98 92 00 99",
       "phoneLabel": "Ring til os",
       "bookingNote": "Farvning og highlights kræver en telefonisk konsultation"
     },
     "colorStrip": {
-      "copy": "Farve og highlights? Ring på 98 92 00 99 — vi tager os tid til at gøre det rigtigt."
+      "copy": "Farve og highlights? Ring på +45 98 92 00 99 — vi tager os tid til at gøre det rigtigt."
     }
   },
   "notFound": {
@@ -115,14 +115,14 @@
   "kontakt": {
     "meta": {
       "title": "Kontakt | Saxen Frisør Hjørring",
-      "description": "Kontakt Saxen Frisør i Hjørring. Ring på 98 92 00 99, besøg os på Jernbanegade 1 eller book online."
+      "description": "Kontakt Saxen Frisør i Hjørring. Ring på +45 98 92 00 99, besøg os på Jernbanegade 1 eller book online."
     },
     "eyebrow": "Kontakt",
     "headline": "Kom forbi",
     "lead": "Vi glæder os til at se dig her i salonen. Ring, skriv, eller book direkte online.",
     "phone": {
       "label": "Telefon",
-      "number": "98 92 00 99"
+      "number": "+45 98 92 00 99"
     },
     "address": {
       "label": "Adresse",
@@ -141,7 +141,7 @@
       "sunday": "Søndag Lukket"
     },
     "colorNote": {
-      "text": "Ønsker du farve eller highlights, bedes du ringe til os — vi tager den tid der skal til for at finde det rigtige for dig."
+      "text": "Ønsker du farve eller highlights, bedes du ringe til os på +45 98 92 00 99 — vi tager den tid der skal til for at finde det rigtige for dig."
     },
     "booking": {
       "primary": "Book tid online",
@@ -222,7 +222,7 @@
       "note": "Priserne er gældende og opdateres løbende. Eventuelle tillæg aftales altid inden behandling."
     },
     "colorCallout": {
-      "copy": "Farve og highlights? Ring til os på 98 92 00 99 — vi tager os tid til at finde det rigtige for dig."
+      "copy": "Farve og highlights? Ring til os på +45 98 92 00 99 — vi tager os tid til at finde det rigtige for dig."
     },
     "booking": {
       "eyebrow": "Book tid",

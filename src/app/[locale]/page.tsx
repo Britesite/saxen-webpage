@@ -497,7 +497,7 @@ export default async function HomePage({
                 </p>
                 <a
                   href="tel:+4598920099"
-                  aria-label="Ring til os: 98 92 00 99"
+                  aria-label="Ring til os: +45 98 92 00 99"
                   style={{
                     fontFamily: "var(--font-display)",
                     fontSize: "clamp(var(--text-2xl), 2.5vw, var(--text-3xl))",
@@ -588,7 +588,7 @@ export default async function HomePage({
 
           <a
             href="tel:+4598920099"
-            aria-label="Ring til os: 98 92 00 99"
+            aria-label="Ring til os: +45 98 92 00 99"
             style={{
               fontFamily: "var(--font-body)",
               fontSize: "var(--text-sm)",
@@ -606,7 +606,7 @@ export default async function HomePage({
             }}
             className="strip-cta"
           >
-            98 92 00 99
+            +45 98 92 00 99
           </a>
         </div>
 

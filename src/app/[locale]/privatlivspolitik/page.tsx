@@ -139,7 +139,7 @@ export default async function PrivatlivspolitikPage({
               {[
                 { label: "Navn", value: "Saxen Frisør" },
                 { label: "Adresse", value: "Jernbanegade 1, 9800 Hjørring" },
-                { label: "Telefon", value: "98 92 00 99" },
+                { label: "Telefon", value: "+45 98 92 00 99" },
                 {
                   label: "Email",
                   value:

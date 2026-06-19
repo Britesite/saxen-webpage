@@ -138,7 +138,7 @@ const priceCategories: PriceCategory[] = [
   {
     key: "klipOgFarve",
     heading: "Klip og Farve",
-    note: "Farve og highlights kræver telefonisk aftale — ring på 98 92 00 99",
+    note: "Farve og highlights kræver telefonisk aftale — ring på +45 98 92 00 99",
     items: [
       { service: "Hel-farvning af bund, m. klip", price: "1.020 kr" },
       {
@@ -334,7 +334,7 @@ export default async function YdelserPage({
               </p>
               <a
                 href="tel:+4598920099"
-                aria-label="Ring til os: 98 92 00 99"
+                aria-label="Ring til os: +45 98 92 00 99"
                 style={{
                   fontFamily: "var(--font-body)",
                   fontSize: "var(--text-base)",
@@ -347,7 +347,7 @@ export default async function YdelserPage({
                 }}
                 className="color-note-phone"
               >
-                98 92 00 99
+                +45 98 92 00 99
               </a>
             </div>
           </div>
@@ -613,7 +613,7 @@ export default async function YdelserPage({
 
           <a
             href="tel:+4598920099"
-            aria-label="Ring til os: 98 92 00 99"
+            aria-label="Ring til os: +45 98 92 00 99"
             style={{
               fontFamily: "var(--font-body)",
               fontSize: "var(--text-sm)",
@@ -632,7 +632,7 @@ export default async function YdelserPage({
             }}
             className="strip-cta"
           >
-            98 92 00 99
+            +45 98 92 00 99
           </a>
         </div>
 
@@ -784,7 +784,7 @@ export default async function YdelserPage({
               {/* Phone as tertiary option */}
               <a
                 href="tel:+4598920099"
-                aria-label="Ring til os: 98 92 00 99"
+                aria-label="Ring til os: +45 98 92 00 99"
                 style={{
                   fontFamily: "var(--font-body)",
                   fontSize: "var(--text-sm)",
@@ -796,7 +796,7 @@ export default async function YdelserPage({
                 }}
                 className="booking-phone"
               >
-                {t("booking.phoneLabel")} 98 92 00 99
+                {t("booking.phoneLabel")} +45 98 92 00 99
               </a>
             </div>
           </div>

@@ -409,7 +409,7 @@ export default async function TeamPage({
 
               <a
                 href="tel:+4598920099"
-                aria-label="Ring til os: 98 92 00 99"
+                aria-label="Ring til os: +45 98 92 00 99"
                 style={{
                   fontFamily: "var(--font-body)",
                   fontSize: "var(--text-sm)",
@@ -421,7 +421,7 @@ export default async function TeamPage({
                 }}
                 className="team-phone-link"
               >
-                98 92 00 99
+                +45 98 92 00 99
               </a>
             </div>
           </div>
